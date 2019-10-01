@@ -15,3 +15,5 @@ As a cloud provider, they make sure the infrastructure is configured properly su
 As a customer, they have to make sure that their resources are properly configured and developed. Here secure application development comes into picture which is another major subdomain of security engineering. This involves secure coding and implementation of Secure Development Lifecycle. This job is done mostly by developers who are trained with knowledge in recent developments in security such as new vulnerabilities and how they can be fixed.     
 
 Following shows various domains of cybersecurity :     
+
+![domainsofcybersecurity](cybersecurity.jpeg)
